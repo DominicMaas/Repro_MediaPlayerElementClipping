@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MediaPlayerElementClipping (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "MediaPlayerElementClipping (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
